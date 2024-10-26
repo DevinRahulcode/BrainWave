@@ -1,8 +1,8 @@
-# BrainWave
-Fully Responsive Website with Modern UI/UX in React JS with Tailwind
+# React + Vite
 
-<img width="1467" alt="BrainWave" src="https://github.com/user-attachments/assets/a4db905f-c02d-4b9a-a1f0-2da975849173">
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-
-<img width="573" alt="Mobile" src="https://github.com/user-attachments/assets/9730a8a2-c9b1-4f1e-921a-de83544e9f2e">
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
